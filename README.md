@@ -1,10 +1,10 @@
 ## **👋 Hi there**
 
-I’m a solution-oriented developer, a lifelong learner, and an adventurer with 6-year experience in the software industry.
+I'm a solution-oriented developer, lifelong learner, and adventurer with 6+ years of experience in the software industry.
 
-*"We can't truly solve a problem until we're able to see it thoroughly"* – That’s my favorite quote. I've had some projects in my career where I've created successful software that helps people solve their real-life problems. It feels great knowing you can bring positive impacts to people around with your codes :)
+*"We can't truly solve a problem until we're able to see it thoroughly"* – This philosophy has guided me through creating impactful software solutions that solve real-world problems. It's incredibly rewarding to see how my code can positively impact people's lives.
 
-Through my career for all these years, I have been working on creating software solutions, designing and leading teams and development. Most of my experience is in SaaS (Messaging automation, Virtual office) and block chain industries (payments, card bank, digital wallets and banking integrations).
+Throughout my career, I've focused on creating software solutions, designing systems, and leading development teams. My expertise lies in SaaS applications (Messaging automation, Virtual office) and blockchain technologies (payments, card banking, digital wallets, and banking integrations).
 
 ## **🤘 Reach out to me**
 🙌 Let's get in touch through my social media accounts:
@@ -12,9 +12,26 @@ Through my career for all these years, I have been working on creating software 
 - **Linked In:** [https://www.linkedin.com/in/khanh-chau/](https://www.linkedin.com/in/khanh-chau/)
 - **Email:** [khanh.chaux@gmail.com](mailto:khanh.chaux@gmail.com)
 
-## **👨🏻‍💻 Work experiences**
+## **👨🏻‍💻 Work Experience**
+### **Tobi** 
+> *Nov 2023 - Oct 2024* / **`Senior Blockchain Engineer`**
+  - **Company:** *Tobi - The world's first AI-powered web3 assistant*
+
+  - **Tech Stack:** 
+    - Languages: TypeScript, Rust
+    - Frameworks: NestJS, React
+    - Infrastructure: PostgreSQL, Redis, AWS (K8s, CloudFront), Google Cloud (GKE, GCS, GCR)
+
+  - **Key Achievements:**
+    - Architected and implemented MPC (Multi-Party Computation) wallet interface
+    - Developed transaction indexing service for multi-chain support
+    - Built core authentication and wallet management system with AI-powered query capabilities
+
+  - **Refs:**
+    - https://www.tobi.fun/
+
 ### **Poko**
-> *Apr 2022 - Now* / **`as a Senior Software Engineer`**
+> *Apr 2022 - Oct 2023* / **`Senior Software Engineer`**
   - **What's it**: *Poko - Seamless Fiat Payments
 for Web3*
 
@@ -36,7 +53,7 @@ for Web3*
     - https://www.pokoapp.xyz/
 
 ### **Supremetech**
-> *Sep 2021 - Apr 2022* / **`as a Senior Backend Engineer`**
+> *Sep 2021 - Apr 2022* / **`Senior Backend Engineer`**
   - **What's it**: *Supremetech - Today.ly (A Visual Office for Remote Teams)*
 
   - **Technologies:** 
@@ -54,7 +71,7 @@ for Web3*
     - https://today.ly
 
 ### **Chative - BotStar**
-> *Jan 2018 - July 2021* / **`as a Software Engineer`**
+> *Jan 2018 - July 2021* / **`Software Engineer`**
   - **What's it**: *BotStar - An Omnichannel Chatbots & Live Chat Application for SMBs*
 
   - **Technologies:** 
@@ -75,7 +92,7 @@ for Web3*
     - https://botstar.com
     - https://chative.io
 
-## **🧑🏻‍🏫 Education**
-> *2017 - 2021* / **Bachelor’s degree in `Information Technology`**
-- University: `FPT University` in Da Nang, Vietnam.
-- GPA: `3.2/4`
+## **🎓 Education**
+> *2017 - 2021* / **Bachelor of Information Technology**
+- **Institution:** FPT University, Da Nang, Vietnam
+- **GPA:** 3.2/4.0
