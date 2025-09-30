@@ -13,6 +13,24 @@ Throughout my career, I've focused on creating software solutions, designing sys
 - **Email:** [khanh.chaux@gmail.com](mailto:khanh.chaux@gmail.com)
 
 ## **👨🏻‍💻 Work Experience**
+### **Optimex**
+> *Sep 2024 - Now* /  **`Senior Blockchain Engineer`**
+ - **Company:** *Optimex - Revolutionizing Bitcoin Finance
+Unlock capital, not control — borrow stablecoins, earn yields, and build custom strategies while keeping full custody of your Bitcoin.*
+
+  - **Tech Stack:** 
+    - Languages: TypeScript, Rust, Solidity
+    - Frameworks: NestJS, React
+    - Infrastructure: PostgreSQL, Redis, GCP (GKE, GCS, GCR)
+
+  - **Key Achievements:**
+    - Architected and implemented MPC (Multi-Party Computation) wallet interface
+    - Developed transaction indexing service for multi-chain support
+    - Built core validation via MPC (Multi-Party Computation) for Swap and Lending protocols  
+
+  - **Refs:**
+    - https://www.optimex.com/
+
 ### **Tobi** 
 > *Nov 2023 - Oct 2024* / **`Senior Blockchain Engineer`**
   - **Company:** *Tobi - The world's first AI-powered web3 assistant*
