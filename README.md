@@ -1,116 +1,152 @@
-## **👋 Hi there**
+## 👋 Hi there
 
-I'm a solution-oriented developer, lifelong learner, and adventurer with 6+ years of experience in the software industry.
+I'm a **solution-oriented Senior Software / Blockchain Engineer** with **8+ years of experience** in the software industry.
 
-*"We can't truly solve a problem until we're able to see it thoroughly"* – This philosophy has guided me through creating impactful software solutions that solve real-world problems. It's incredibly rewarding to see how my code can positively impact people's lives.
+> *“We can’t truly solve a problem until we’re able to see it thoroughly.”*
 
-Throughout my career, I've focused on creating software solutions, designing systems, and leading development teams. My expertise lies in SaaS applications (Messaging automation, Virtual office) and blockchain technologies (payments, card banking, digital wallets, and banking integrations).
+This philosophy has guided me through building impactful software systems that solve real-world problems. I’m particularly passionate about **Bitcoin-native architectures**, **MPC wallets**, and **financial infrastructure** that balances security, scalability, and user custody.
 
-## **🤘 Reach out to me**
-🙌 Let's get in touch through my social media accounts:
+Throughout my career, I’ve focused on designing systems, leading development efforts, and turning complex research into production-ready solutions across **SaaS** and **blockchain** domains.
 
-- **Linked In:** [https://www.linkedin.com/in/khanh-chau/](https://www.linkedin.com/in/khanh-chau/)
-- **Email:** [khanh.chaux@gmail.com](mailto:khanh.chaux@gmail.com)
+---
 
-## **👨🏻‍💻 Work Experience**
+## 🤘 Reach out to me
+
+- **LinkedIn:** https://www.linkedin.com/in/khanh-chau/
+- **Email:** khanh.chaux@gmail.com
+
+---
+
+## 👨🏻‍💻 Work Experience
+
 ### **Optimex**
-> *Sep 2024 - Now* /  **`Senior Blockchain Engineer`**
- - **Company:** *Optimex - Revolutionizing Bitcoin Finance
-Unlock capital, not control — borrow stablecoins, earn yields, and build custom strategies while keeping full custody of your Bitcoin.*
+> *Sep 2024 - Now* / **`Senior Blockchain Engineer`**
 
-  - **Tech Stack:** 
-    - Languages: TypeScript, Rust, Solidity
-    - Frameworks: NestJS, React
-    - Infrastructure: PostgreSQL, Redis, GCP (GKE, GCS, GCR)
+- **Company:** *Optimex – Revolutionizing Bitcoin Finance*  
+  *Unlock capital, not control — borrow stablecoins, earn yields, and build custom strategies while keeping full custody of your Bitcoin.*
 
-  - **Key Achievements:**
-    - Architected and implemented MPC (Multi-Party Computation) wallet interface
-    - Developed transaction indexing service for multi-chain support
-    - Built core validation via MPC (Multi-Party Computation) for Swap and Lending protocols  
+- **Tech Stack:**  
+  - Languages: TypeScript, Rust, Solidity  
+  - Frameworks: NestJS, React  
+  - Infrastructure: PostgreSQL, Redis, GCP (GKE, GCS, GCR)
 
-  - **Refs:**
-    - https://www.optimex.com/
+- **Key Achievements:**
+  - **Bitcoin Script & Protocol Research**
+    - Researched and designed **Bitcoin Script-based spending paths**, including time-locked and condition-based flows.
+    - Worked with **Taproot concepts**, script trees, and covenant-like constraints for Bitcoin-native protocols.
+    - Analyzed security trade-offs between on-chain script enforcement and off-chain coordination.
+  - **MPC Wallet Architecture**
+    - Architected and implemented **MPC (Multi-Party Computation) wallet interfaces** for Bitcoin and EVM-compatible chains.
+    - Designed secure signing flows, key lifecycle management, and recovery strategies.
+    - Integrated MPC-based validation into **Swap and Lending protocols**.
+  - **Core Protocol & System Design**
+    - Built core transaction validation and execution logic.
+    - Designed systems resilient to network delays, partial failures, and signer unavailability.
+    - Collaborated closely with research and product teams to bring protocol research into production.
 
-### **Tobi** 
+- **Refs:**
+  - https://optimex.com/
+
+---
+
+### **Tobi**
 > *Nov 2023 - Oct 2024* / **`Senior Blockchain Engineer`**
-  - **Company:** *Tobi - The world's first AI-powered web3 assistant*
 
-  - **Tech Stack:** 
-    - Languages: TypeScript, Rust
-    - Frameworks: NestJS, React
-    - Infrastructure: PostgreSQL, Redis, AWS (K8s, CloudFront), Google Cloud (GKE, GCS, GCR)
+- **Company:** *Tobi – The world's first AI-powered Web3 assistant*
 
-  - **Key Achievements:**
-    - Architected and implemented MPC (Multi-Party Computation) wallet interface
-    - Developed transaction indexing service for multi-chain support
-    - Built core authentication and wallet management system with AI-powered query capabilities
+- **Tech Stack:**  
+  - Languages: TypeScript, Rust  
+  - Frameworks: NestJS, React  
+  - Infrastructure: PostgreSQL, Redis, AWS (K8s, CloudFront), GCP (GKE, GCS, GCR)
 
-  - **Refs:**
-    - https://www.tobi.fun/
+- **Key Achievements:**
+  - Architected and implemented **MPC wallet infrastructure** for multi-chain environments.
+  - Developed **transaction indexing services** supporting multiple blockchains.
+  - Built core authentication and wallet management systems with **AI-powered query capabilities**.
+
+- **Refs:**
+  - https://www.tobi.fun/
+
+---
 
 ### **Poko**
 > *Apr 2022 - Oct 2023* / **`Senior Software Engineer`**
-  - **What's it**: *Poko - Seamless Fiat Payments
-for Web3*
 
-  - **Technologies:** 
-    - Language: Typescript
-    - Framework: Next.js, NestJs, React, Taro
-    - Database: PostgreSQL, Redis, RabitMQ
-    - Cloud: AWS (k8s, Lambda, Cloudfront)
+- **What's it:** *Poko – Seamless Fiat Payments for Web3*  
+  *(Fiat on-ramp aggregator — acquired by **Web3Auth** in Oct 2023)*
 
-  - **What I Do:**
-    - **Payment App**: Building a Payment App from scratch using Blockchain technology; Implementing Blockchain analysis tools to track multiple-source transactions.
-    - **GraphQL Server**: Setting up indexer containers to listen & store the transaction from multiple chains using GraphQL Server:
-    - **Direct checkout**: Implementing direct checkout with smart contract to manage fund and enable non-gas fee NFT purchases using Fiat currency for customers
-    - **Onramp Aggregator**: Implementing gateways for consumer and suggesting the best route for users to buy crypto from Fiat (Onramp Aggregator)
-    - **Offramp:** Introducing the system to track the SMA accounts (ERC 4337); issue/top up to the VISA/Mastercard allowing users to issue an USD virtual Mastercard using their crypto wallet that’s available for any type of payments (Offramp) 
-    - Setting up and monitoring resources of all the above projects; constructing and implementing infra as code using AWS-SDK
+- **Acquisition Highlight:**
+  - Poko’s **On-Ramp Aggregator was acquired by Web3Auth**, strengthening Web3Auth’s global fiat-to-crypto payment infrastructure.
+  - The acquisition validated Poko’s **on-ramp architecture**, provider aggregation model, and scalable payment infrastructure.
+  - Official announcement: https://blog.web3auth.io/announcing-web3auths-acquisition-of-poko-on-ramp-aggregator/
 
-  - **Refs:**
-    - https://www.pokoapp.xyz/
+- **Technologies:**  
+  - Language: TypeScript  
+  - Frameworks: Next.js, NestJS, React, Taro  
+  - Database: PostgreSQL, Redis, RabbitMQ  
+  - Cloud: AWS (K8s, Lambda, CloudFront)
+
+- **What I Do:**
+  - Built a **Payment App from scratch**, bridging fiat and crypto rails.
+  - Implemented blockchain analysis tools to track multi-source transactions.
+  - Designed **direct checkout flows** with smart contracts for gasless NFT purchases using fiat.
+  - Developed **On-ramp Aggregator** integrating multiple global providers to optimize fees and success rates.
+  - Implemented **Off-ramp systems** using ERC-4337 to issue and manage virtual VISA/Mastercard.
+  - Set up and monitored infrastructure; implemented **Infrastructure as Code** using AWS SDK.
+
+- **Refs:**
+  - https://www.pokoapp.xyz/
+  - https://blog.web3auth.io/announcing-web3auths-acquisition-of-poko-on-ramp-aggregator/
+
+---
 
 ### **Supremetech**
 > *Sep 2021 - Apr 2022* / **`Senior Backend Engineer`**
-  - **What's it**: *Supremetech - Today.ly (A Visual Office for Remote Teams)*
 
-  - **Technologies:** 
-    - Language: Typescript
-    - Framework: Express, React, Janus
-    - Database: PostgreSQL, Redis
-    - Cloud: AWS (k8s, Lambda, API Gateway)
+- **What's it:** *Supremetech – Today.ly (A Visual Office for Remote Teams)*
 
-  - **What I Do:**
-    - Collaborated with UX researchers to identify gaps & improve UX in the app.
-    - Researched solutions to scaling WebRTC application; implemented scaling for Janus service.
-    - Updated real-time service to handle messages/updated events among a large group of users in multiple instances of API service.
+- **Technologies:**  
+  - Language: TypeScript  
+  - Frameworks: Express, React, Janus  
+  - Database: PostgreSQL, Redis  
+  - Cloud: AWS (K8s, Lambda, API Gateway)
 
-  - **Refs:**
-    - https://today.ly
+- **What I Do:**
+  - Collaborated with UX researchers to identify gaps and improve user experience.
+  - Researched and implemented **scaling solutions for WebRTC (Janus)**.
+  - Updated real-time services to support large groups across multiple API instances.
+
+- **Refs:**
+  - https://today.ly
+
+---
 
 ### **Chative - BotStar**
 > *Jan 2018 - July 2021* / **`Software Engineer`**
-  - **What's it**: *BotStar - An Omnichannel Chatbots & Live Chat Application for SMBs*
 
-  - **Technologies:** 
-    - Language: Typescript, Golang
-    - Framework: Fastify, Express, React, Angular2+
-    - Database: Mongodb, DynamoDB
-    - Cloud: AWS
+- **What's it:** *BotStar – An Omnichannel Chatbots & Live Chat Application for SMBs*
 
-  - **What I Do:**
-    - Utilized multiple services to fetch/catch data; constructed the app and made it ready for working offline (PWA).
-    - Set up a structured and scalable codebase that helped visualize all configurations in front of users.
-    - Upgraded message exchanges service performance by combining a web app service to handle warning/locking, and avoid multiple editing of one resource at the same time.
-    - Developed an end-to-end billing system from scratch to collect payments and manage subscriptions using Stripe.
-    - Supported business by adding an endpoint on the server to streamline data, growth, churn, and financial status through customized reports and dashboard.
-    - Implemented chatbot direct integration with Google Sheet in a week; allowed users to streamline data in/out of GoogleSheet in real-time.
+- **Technologies:**  
+  - Language: TypeScript, Golang  
+  - Frameworks: Fastify, Express, React, Angular2+  
+  - Database: MongoDB, DynamoDB  
+  - Cloud: AWS
 
-  - **Refs:**
-    - https://botstar.com
-    - https://chative.io
+- **What I Do:**
+  - Built omnichannel messaging systems with offline-first (PWA) capabilities.
+  - Designed scalable and configurable codebases.
+  - Improved concurrency handling for message editing and locking.
+  - Developed an end-to-end billing and subscription system using Stripe.
+  - Implemented real-time Google Sheets integration.
 
-## **🎓 Education**
+- **Refs:**
+  - https://botstar.com  
+  - https://chative.io
+
+---
+
+## 🎓 Education
 > *2017 - 2021* / **Bachelor of Information Technology**
-- **Institution:** FPT University, Da Nang, Vietnam
-- **GPA:** 3.2/4.0
+
+- **Institution:** FPT University, Da Nang, Vietnam  
+- **GPA:** 3.2 / 4.0
