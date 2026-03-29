@@ -19,53 +19,59 @@ Throughout my career, I’ve focused on designing systems, leading development e
 
 ## 👨🏻‍💻 Work Experience
 
-### **Optimex**
-> *Sep 2024 - Now* / **`Senior Blockchain Engineer`**
+### 🔗 Web3 / Blockchain
 
-- **Company:** *Optimex – Revolutionizing Bitcoin Finance*  
-  *Unlock capital, not control — borrow stablecoins, earn yields, and build custom strategies while keeping full custody of your Bitcoin.*
+### **Caliber** *(Optimex & Tobi)*
+> *Nov 2023 - Now* / **`Senior Blockchain Engineer`**
 
-- **Tech Stack:**  
-  - Languages: TypeScript, Rust, Solidity  
-  - Frameworks: NestJS, React  
+- **Company:** *[Caliber](https://caliber.build) – Web3 Venture Builder, led by Loi Luu (Co-founder of Kyber Network)*
+  *Co-builds AI and blockchain startups from Day Zero — portfolio includes Kyber, Jupiter, Meteora, Zilliqa, Optimex and more. Backed by Pantera, Parafi Capital, DeFi Alliance, and others.*
+
+#### Optimex *(Sep 2024 - Now)*
+> *Bitcoin-native DeFi — cross-chain swaps and trustless lending, keeping full custody of your Bitcoin.*
+
+- **Tech Stack:**
+  - Languages: TypeScript, Rust, Solidity
+  - Frameworks: NestJS, React
   - Infrastructure: PostgreSQL, Redis, GCP (GKE, GCS, GCR)
 
 - **Key Achievements:**
-  - **Bitcoin Script & Protocol Research**
+  - **Cross-Chain Swap** *(Bitcoin ↔ EVM, Bitcoin ↔ Solana)*
+    - Built swap infrastructure bridging Bitcoin with EVM and Solana ecosystems.
+    - Achieved **$5M+ trading volume** since launch.
     - Researched and designed **Bitcoin Script-based spending paths**, including time-locked and condition-based flows.
     - Worked with **Taproot concepts**, script trees, and covenant-like constraints for Bitcoin-native protocols.
+  - **Bitcoin Lending Protocol**
+    - Designed and implemented a lending system allowing users to **stake Bitcoin on-chain** and **borrow USDC on Ethereum** — no custody transfer required.
+    - Supported yield strategies and custom position management while preserving full Bitcoin self-custody.
     - Analyzed security trade-offs between on-chain script enforcement and off-chain coordination.
   - **MPC Wallet Architecture**
     - Architected and implemented **MPC (Multi-Party Computation) wallet interfaces** for Bitcoin and EVM-compatible chains.
     - Designed secure signing flows, key lifecycle management, and recovery strategies.
-    - Integrated MPC-based validation into **Swap and Lending protocols**.
+    - Integrated MPC-based validation into both Swap and Lending protocols.
   - **Core Protocol & System Design**
     - Built core transaction validation and execution logic.
     - Designed systems resilient to network delays, partial failures, and signer unavailability.
     - Collaborated closely with research and product teams to bring protocol research into production.
 
-- **Refs:**
-  - https://optimex.com/
+- **Refs:** https://optimex.com/
 
----
+#### Tobi *(Nov 2023 - Oct 2024)*
+> *The world's first AI-powered web3 assistant — making web3 as easy as chatting with friends, built right into Telegram.*
 
-### **Tobi**
-> *Nov 2023 - Oct 2024* / **`Senior Blockchain Engineer`**
-
-- **Company:** *Tobi – The world's first AI-powered Web3 assistant*
-
-- **Tech Stack:**  
-  - Languages: TypeScript, Rust  
-  - Frameworks: NestJS, React  
+- **Tech Stack:**
+  - Languages: TypeScript, Rust
+  - Frameworks: NestJS, React
   - Infrastructure: PostgreSQL, Redis, AWS (K8s, CloudFront), GCP (GKE, GCS, GCR)
 
 - **Key Achievements:**
-  - Architected and implemented **MPC wallet infrastructure** for multi-chain environments.
-  - Developed **transaction indexing services** supporting multiple blockchains.
-  - Built core authentication and wallet management systems with **AI-powered query capabilities**.
+  - **First MPC Wallet in Telegram** — pioneered a self-custodial, MPC-secured smart wallet natively embedded in Telegram, supporting **TON, Solana, Ethereum, Base, Arbitrum, Optimism, Polygon, BNB Chain, Avalanche, Berachain**, and more — no seed phrases required.
+  - Architected and implemented the **multi-chain MPC wallet infrastructure** — secure key management, signing flows, and recovery strategies across heterogeneous chain environments.
+  - Integrated with top DeFi protocols and cross-chain services: **Jupiter, KyberSwap, deBridge, Li.Fi, STON, Swing**, and others — enabling swaps, cross-chain transfers, and DeFi actions via natural language.
+  - Developed **transaction indexing services** tracking on-chain activity across multiple blockchains in real time.
+  - Built core AI interface allowing users to send/request funds, retrieve market data and charts, execute trades, and set automated DCA strategies — all through conversational chat.
 
-- **Refs:**
-  - https://www.tobi.fun/
+- **Refs:** https://www.tobi.fun/
 
 ---
 
@@ -75,9 +81,10 @@ Throughout my career, I’ve focused on designing systems, leading development e
 - **What's it:** *Poko – Seamless Fiat Payments for Web3*  
   *(Fiat on-ramp aggregator — acquired by **Web3Auth** in Oct 2023)*
 
-- **Acquisition Highlight:**
-  - Poko’s **On-Ramp Aggregator was acquired by Web3Auth**, strengthening Web3Auth’s global fiat-to-crypto payment infrastructure.
-  - The acquisition validated Poko’s **on-ramp architecture**, provider aggregation model, and scalable payment infrastructure.
+- **Highlights:**
+  - Raised **$5M total** — $500K from Y Combinator + $4.5M seed from **Y Combinator, NAZCA, Global Founders Capital, Goodwater Capital, Pantera, Soma Capital, Dentsu Ventures**, and others.
+  - Platform reduced NFT/crypto purchasing costs by **up to 70%**, boosted transaction success rates by **5x**, and increased paid user conversion by **79%**.
+  - Poko’s **On-Ramp Aggregator was acquired by Web3Auth** in Oct 2023, strengthening Web3Auth’s global fiat-to-crypto payment infrastructure.
   - Official announcement: https://blog.web3auth.io/announcing-web3auths-acquisition-of-poko-on-ramp-aggregator/
 
 - **Technologies:**  
@@ -99,6 +106,8 @@ Throughout my career, I’ve focused on designing systems, leading development e
   - https://blog.web3auth.io/announcing-web3auths-acquisition-of-poko-on-ramp-aggregator/
 
 ---
+
+### 🌐 Web2 / SaaS
 
 ### **Supremetech**
 > *Sep 2021 - Apr 2022* / **`Senior Backend Engineer`**
